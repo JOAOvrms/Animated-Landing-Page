@@ -2,9 +2,13 @@
 
 # 🍊 Animated Landing Page
 
-Uma landing page interativa desenvolvida para praticar **HTML**, **CSS**, **JavaScript** e **GSAP**.
+Landing page desenvolvida para praticar HTML, CSS, JavaScript e GSAP.
 
 🚧 **Projeto em desenvolvimento**
+
+### 🌐 Live Demo
+
+👉 animated-landing-page-eosin-gamma.vercel.app
 
 </div>
 
@@ -147,24 +151,6 @@ Pretendo implementar:
 
 ---
 
-# 💻 Como executar
-
-Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/animated-landing-page.git
-```
-
-Entre na pasta
-
-```bash
-cd animated-landing-page
-```
-
-Abra o arquivo **index.html** no navegador.
-
----
-
 # 🛠️ Ferramentas utilizadas
 
 - Visual Studio Code
@@ -180,6 +166,10 @@ Abra o arquivo **index.html** no navegador.
 🟢 Em desenvolvimento.
 
 O projeto continuará recebendo melhorias conforme eu evoluo meus conhecimentos em Front-End.
+
+Caso queira visualizar o projeto em funcionamento, acesse:
+
+👉 animated-landing-page-eosin-gamma.vercel.app
 
 ---
 
