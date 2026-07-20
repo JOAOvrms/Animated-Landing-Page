@@ -16,7 +16,7 @@ Landing page desenvolvida para praticar HTML, CSS, JavaScript e GSAP.
 
 ## 📖 Sobre o projeto
 
-Este projeto foi desenvolvido durante meus estudos no curso de **HTML, CSS e JavaScript** do **O Rei Dos Sites**.
+Este projeto foi desenvolvido durante meus estudos no curso de **Programação** do **O Rei Dos Sites**.
 
 Após concluir o módulo de Front-End, decidi continuar evoluindo o projeto por conta própria, aplicando melhorias, refatorando o código e adicionando novas funcionalidades para aprofundar meus conhecimentos em desenvolvimento Front-End.
 
