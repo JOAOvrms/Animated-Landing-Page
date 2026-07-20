@@ -8,7 +8,7 @@ Landing page desenvolvida para praticar HTML, CSS, JavaScript e GSAP.
 
 ### 🌐 Live Demo
 
-👉 animated-landing-page-eosin-gamma.vercel.app
+👉 <a href="animated-landing-page-eosin-gamma.vercel.app">Animated-Landing-Page.vercel.app</a>
 
 </div>
 
